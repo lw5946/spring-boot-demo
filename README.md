@@ -1,2 +1,2 @@
-# spring-boot-demo
-学习spring-boot的demo
+# spring-cloud-demo
+学习spring-cloud的demo
